@@ -1,5 +1,5 @@
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 
